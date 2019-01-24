@@ -1,5 +1,7 @@
 # Starter Web Repo
 
+Simple web site Git/GitHub
+
 ## Introduction
 
 ## Purpose
