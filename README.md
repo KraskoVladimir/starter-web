@@ -15,3 +15,7 @@ This is purpose
 This is deployment
 
 ## How to Contribute
+
+### Copyright
+
+Copyright
