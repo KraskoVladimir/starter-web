@@ -1,6 +1,7 @@
 # Starter Web Repo
 
 Simple web site Git/GitHub
+Adding a line
 
 ## Introduction
 
