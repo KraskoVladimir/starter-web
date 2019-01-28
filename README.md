@@ -21,4 +21,4 @@ fuvguagvrejbvjrevbj
 
 ### Copyright
 
-Copyright
+Copyright. All rights reserved
